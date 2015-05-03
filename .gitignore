@@ -1,0 +1,3 @@
+examples/*.exe
+examples/*.dll
+examples/nimcache/*
